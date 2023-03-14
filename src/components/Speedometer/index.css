@@ -1,0 +1,44 @@
+.bg {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-top: 20px;
+  font-size: 40px;
+}
+.pic {
+  width: 70vw;
+}
+.head-2 {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.desc {
+  color: #cbd5e1;
+  font-family: Roboto;
+}
+
+.acc-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 110px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.brk-btn {
+  background-color: transparent;
+  color: #ffffff;
+  width: 110px;
+  height: 50px;
+  border-color: #94a3b8;
+  border-width: 1px;
+  color: #94a3b8;
+  border-radius: 10px;
+  margin: 20px;
+}
